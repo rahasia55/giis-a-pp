@@ -7,7 +7,7 @@
   "dialog_message": "Silahkan klik update aplikasi",
   "button_update": "Update",
   "button_cancel": "Cancel",
-  "cancelable": "true",
+  "cancelable": true,
   "info": "tes",
   "link_update": "https://play.google.com/store/apps/details?id=com.sopinje.tct",
 "tutor_main": "https://youtu.be/cj7GQFkVb2Q?si=ruv-OfZ6g0byolZL",
