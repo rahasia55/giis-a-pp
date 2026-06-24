@@ -1,22 +1,22 @@
 [
   {
   "visibility": "INVISIBLE",
-  "min_version": "1.4",
-  "app_name": "GS Tools",
-  "dialog_title": "App under maintenance for the next 2 hours. Downloading Skin Toolkit ML, Click Update",
-  "dialog_message": "Aplikasi dalam pemeliharaan selama 2 jam ke depan sementara download aplikasi Skin Toolkit ML, klik update",
+  "min_version": "1.1",
+  "app_name": "ML Tools Hub",
+  "dialog_title": "Versi terbaru telah tersedia",
+  "dialog_message": "Silahkan klik update aplikasi",
   "button_update": "Update",
   "button_cancel": "Cancel",
-  "cancelable": true,
+  "cancelable": "true",
   "info": "tes",
-  "link_update": "https://play.google.com/store/apps/dev?id=7257410514584421739",
-  "tutor_main": "https://youtu.be/MgtXp2LJZa0?si=geydnAcFu6gcyJ5r",
-  "tutor_file": "https://youtu.be/MgtXp2LJZa0?si=geydnAcFu6gcyJ5r",
-  "tutor_shizuku": "https://youtu.be/szAlyPrhSVA?si=YokyXKDGZFG-o0mL",
-  "tutor_iadb": "https://youtu.be/9jSIaJEPLhw?si=TvOcAQjtrzUi65fn",
-  "youtube": "https://youtube.com/playlist?list=PLGCMrKypV0ZecM96XjRyb3rJ3L41eW3v6&si=e8H5NjfndJkJd_Fh",
+  "link_update": "https://play.google.com/store/apps/details?id=com.sopinje.tct",
+"tutor_main": "https://youtu.be/cj7GQFkVb2Q?si=ruv-OfZ6g0byolZL",
+  "tutor_file": "https://youtu.be/cj7GQFkVb2Q?si=ruv-OfZ6g0byolZL",
+  "tutor_shizuku": "https://youtu.be/MAPwCdq4utU?si=0nMBo31i9UrvcXQG",
+  "tutor_iadb": "https://youtu.be/xke8T-RpQbI?si=viB3Q4srs2w4_XMJ",
+    "youtube": "https://youtube.com/@gs_injector?si=Tu_AzQPnhk5znCM_",
   "tiktok": "https://www.tiktok.com/@script.ml5?_r=1&_t=ZS-96wbzTnlHjm",
   "whatsapp": "https://chat.whatsapp.com/CY1HKBpfYRhJVMVz3duAqv",
-  "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZecM96XjRyb3rJ3L41eW3v6&si=5GSUfmYSkPZ0t8Mv"
+  "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZcLvHyQAUWKS465hwtq0zML&si=dl4nMuiABZ7U2bOY"
   }
 ]
