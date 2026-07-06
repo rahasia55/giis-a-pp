@@ -22,7 +22,12 @@
         "partner_apps_visible": true,
     "partner_apps": [
       {
-        "app_name": "Skin Toolkit ML",
+        "app_name": "IQ Tools",
+        "icon_url": "https://raw.githubusercontent.com/rahasia55/New-Default-skin/refs/heads/main/uploads/1000879913.png",
+        "link_update": "https://play.google.com/store/apps/details?id=iQ.Tools.MLInjector.SkinToolML"
+      },
+      {
+        "app_name": "Skin Toolkit",
         "icon_url": "https://play-lh.googleusercontent.com/fyuoL-N88hNz1L_AGvxZs-C4QKHgPb2CqrlQqWmTwCSsex-NvD_Pe_m80JocyoEMf709DVt0dq4ZesnoSp6HDTY=s128-rw",
         "link_update": "https://play.google.com/store/apps/details?id=skin.tools.ml.injector.config.skin.ml.tool.gfx"
       },
