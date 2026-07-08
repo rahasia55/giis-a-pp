@@ -18,8 +18,9 @@
   "tiktok": "https://www.tiktok.com/@skin.tools.ml?_r=1&_t=ZS-97ijKCADkTR",
   "whatsapp": "https://chat.whatsapp.com/Lb7zECfKjsLDpze1hr3RPi",
   "telegram": "https://youtube.com/playlist?list=PLGCMrKypV0ZecM96XjRyb3rJ3L41eW3v6&si=qrAIqUpS4_iuGPX7",
-
-        "partner_apps_visible": true,
+  "privacy_policy": "https://gs-tools.blogspot.com/p/privacy-police.html?m=1",
+     
+     "partner_apps_visible": true,
     "partner_apps": [
       {
         "app_name": "IQ Tools",
