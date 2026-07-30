@@ -1,7 +1,7 @@
 [
   {
   "visibility": "VISIBLE",
-     "upgrade_skin_enabled": true,
+     "upgrade_skin_enabled": false,
   "min_version": "2.9",
   "app_name": "GS Tools",
   "dialog_title": "App under maintenance. Meanwhile, please use IQ Tools. Click update",
